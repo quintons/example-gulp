@@ -1,0 +1,49 @@
+
+[
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Content\\",
+    "src": "app/css",
+    "dest": "css",
+    "name": "KendoAndQuooda.css",
+    "files": [
+      "KendoAndQuooda.css"
+    ]
+  },
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Content\\",
+    "src": "app/css",
+    "dest": "css",
+    "name": "jquery.css",
+    "files": [
+      "jquery-ui-1.11.4.min.css",
+      "jquery.jscrollpane.css"
+    ]
+  },
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Content\\",
+    "src": "app/css",
+    "dest": "css",
+    "name": "androidSpecific.css",
+    "files": [
+      "AndroidSpecific.css"
+    ]
+  },
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Content\\",
+    "src": "app/css",
+    "dest": "css",
+    "name": "additionalMobile.css",
+    "files": [
+      "AdditionalMobile.css"
+    ]
+  },
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Content\\",
+    "src": "app/css",
+    "dest": "css",
+    "name": "responsiveForm.css",
+    "files": [
+      "ResponsiveForm.css"
+    ]
+  }
+]

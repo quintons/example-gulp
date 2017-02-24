@@ -1,0 +1,55 @@
+
+[
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Scripts\\",
+    "src": "app/js",
+    "dest": "js",
+    "name": "jquery.js",
+    "files": [
+      "jquery-2.1.4.min.js"
+    ]
+  },
+  {
+    "originalSrc": "C:\\Files\\{mainFolder}\\Titan\\Scripts\\titan\\",
+    "src": "app/js/titan",
+    "dest": "js/titan",
+    "name": "titan.js",
+    "files": [
+      "titan.pages.js",
+      "titan.pages.alert.js",
+      "titan.pages.document.js",
+      "titan.pages.confirmbox.js",
+      "titan.pages.commondata.js",
+      "titan.pages.customassets.js",
+      "titan.pages.customfields.js",
+      "titan.pages.associations.js",
+      "titan.pages.hierarchy.js",
+      "titan.pages.user.js",
+      "titan.button.js",
+      "titan.gridsearch.js",
+      "titan.grid.js",
+      "titan.dialogbox.js",
+      "titan.util.js",
+      "titan.confirmbox.js",
+      "titan.json.js",
+      "titan.constants.js",
+      
+      "titan.pages.alert-mobile.js",
+      "titan.pages.associations-mobile.js",
+      "titan.pages.complience-mobile.js",
+      "titan.pages.customfields-mobile.js",
+      "titan.topnavigation-mobile.js"
+    ]
+  },
+  {
+    "_comment": "minify has been set to false due to the slowness to process/minify this file - it is already minified",
+    "originalSrc": "",
+    "src": "app/js",
+    "dest": "js",
+    "minify": false,
+    "name": "kendo.all.js",
+    "files": [
+      "kendo-2015-2-624.js"
+    ]
+  }
+]

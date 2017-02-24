@@ -1,0 +1,7 @@
+{
+  "minify": true,
+  "localRoot": "C:\\Files\\",
+  "mainFolder": "Titan\\Main\\",
+  "remoteRoot": "Y:\\{target}\\",
+  "version": "2.0.1"
+}
